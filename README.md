@@ -1,3 +1,5 @@
+Deployed by AWS S3 http://bazar-s3.s3-website-ap-southeast-1.amazonaws.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
